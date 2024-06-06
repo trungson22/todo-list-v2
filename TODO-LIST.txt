@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+hello everyone
+blabla
+xin chao moi nguoi den voi chanel cua minh
+=======
+>>>>>>> parent of dcc94f7 (add some text to todolist)
